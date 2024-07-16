@@ -50,4 +50,4 @@ The prediction is done using linear regression and random forest regression mode
 
 5. **Prediction and Analysis**
    - Use the trained models to predict the fitness of mental health on new, unseen data.
-   - Analyze the results and interpret the impact of different input features on mental health fitness.
+   - Analyze the results and interpret the impact of different input features on mental health fitness
